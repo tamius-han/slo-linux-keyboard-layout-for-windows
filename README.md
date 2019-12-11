@@ -25,7 +25,11 @@ Prvi in drug nivo (ko ne pipaš 'alt gr') sta popolnoma enaka (razen tega, ko ),
 
 ### Ko pritisneš alt-gr
 
+![Tipke, dosegljive z altgr](readme-resources/altgr.png "Tipke, dosegljive z altgr")
+
 ### Ko pritisneš shift + alt-gr
+
+![Tipke, dosegljive s shift + altgr](readme-resources/altgr.png "Tipke, dosegljive s shift + altgr")
 
 ### Stvari, ki niso razvidne iz slik
 
