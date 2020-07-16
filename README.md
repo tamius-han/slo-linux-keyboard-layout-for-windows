@@ -4,6 +4,7 @@ Ker je dodanih tipk ena celgafuka ([alot](http://hyperboleandahalf.blogspot.com/
 
 ## Spremenjene tipke v primerjavi s privzeto slovensko razporeditvijo tipkovnice na Windows:
 
+* Tista tipka zraven 1 zdaj vrača `~` in `` ` `` (nobena ni mrtva tipka)
 * Krativec (`` ` ``) je sedaj mrtva tipka (dead key). Za različico, ki ni mrtva tipka, glej `shift alt-gr V`.
 * `alt-gr M` sedaj vrača `^` namesto `§`
 *Stvari za numerični del tipkovnice: ko pritisneš `shift` (oz. prižgeš caps lock), se decimalni simbol spremeni iz vejice (privzeti format za Slovenijo in večino Evrope) v piko (Severna Amerika, pa verjetno še kaj). Čestitke, caps lock je zdaj za eno zaokroževalno napako bolj uporaben kot prej.
